@@ -1,3 +1,3 @@
 import pygame
 
-put("It runs!")
+print("It runs!")
